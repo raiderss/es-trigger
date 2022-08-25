@@ -4,7 +4,7 @@ Config.Target = {
 	["Community Service Trigger"] = "esx_communityservice:sendToCommunityService",
 	["Community Maximum Amount"] = 200,
 	["Sellect Mysql"] = "mysql-async", -- mysql-async or oxmysql or ghmattimysql
-	["Webhook"] = "https://discord.com/api/webhooks/954717071072170064/CSv4P_ifpiHtOv-VH3mS26dUDBGNhUEme21zyaCIWEtCxkI-vUL7hZ0MEOixhoA7St8V",
+	["Webhook"] = "",
 	["Message"] = "You have been suspended from the server for cheating!"
 }
 
