@@ -5,3 +5,9 @@
 - **_ESCKaybeden#0488_**
 - **_! Raider#0031_**
 - [**Discord**](https://discord.gg/EkwWvFS)
+
+FiveM Trigger Guard
+
+It cancels the monetization action through the trigger, and prevents some things like exploit and your server crashing.
+
+It also disables the types that trigger many events, such as the public cheat, and reverses the cheat, thus creating an automatic order.
