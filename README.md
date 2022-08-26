@@ -6,7 +6,7 @@
 - **_! Raider#0031_**
 - [**Discord**](https://discord.gg/EkwWvFS)
 
-FiveM Trigger Guard
+FiveM High Trigger Guard
 
 It cancels the monetization action through the trigger, and prevents some things like exploit and your server crashing.
 
