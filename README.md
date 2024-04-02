@@ -16,8 +16,10 @@ We are **able to provide** this **free product** because of help of **https://fi
   <h1>EYES STORE</h1>
 </div>
 
-- **_ESCKaybeden#0488_**
+## 🤝 Contributors
 - **_! Raider#0101_**
+
+
 - [**Discord**](https://discord.gg/EkwWvFS)
 - [**Tebex**](https://eyestore.tebex.io/)
 
